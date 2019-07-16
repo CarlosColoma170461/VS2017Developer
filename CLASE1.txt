@@ -1,0 +1,15 @@
+DEVELOPER
+
+JAVIER TUÑOQUE GALVEZ
+
+javiertuga@gmail.com
+
+repasar lo siguiente:
+1. Sintais de CSharp
+2. Declarar Variables
+3. Estructuras condicionales / repetitivas
+4. Programacion orientada obetos
+    	Propiedades
+	Metodos.
+	Herencia
+5. Listas Genericas
